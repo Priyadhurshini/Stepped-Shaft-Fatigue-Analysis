@@ -1,0 +1,8 @@
+﻿*Fatigue_files/
+*_files/
+*_ProjectScratch/
+*.wbpj
+*.dsco
+*.scdocx
+__pycache__/
+*.pyc

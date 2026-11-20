@@ -1,0 +1,16 @@
+﻿# 
+# This file contains the parameter values of the Design Points successfully updated by Ansys Workbench.
+# Project name: Stepped shaft CAD
+# Creation date: 09/06/2026 22:45:01
+# 
+# 09/06/2026 22:45:01
+# The parameters defined in the project are:
+# ,P1 - Fillet radius [mm],P2 - Equivalent Stress Maximum [MPa]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2
+DP 0,2,207.40037321859867
+DP 1,1,256.79258008243715
+DP 2,3,185.62400827660917
+DP 3,4,172.1350510211841
+DP 4,5,163.25802446211353
